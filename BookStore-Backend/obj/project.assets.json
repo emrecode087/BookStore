@@ -5232,11 +5232,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\90553\\source\\repos\\BookStore_API\\BookStore_API.csproj",
+      "projectUniqueName": "C:\\Users\\90553\\source\\repos\\BookStore\\BookStore-Backend\\BookStore_API.csproj",
       "projectName": "BookStore_API",
-      "projectPath": "C:\\Users\\90553\\source\\repos\\BookStore_API\\BookStore_API.csproj",
+      "projectPath": "C:\\Users\\90553\\source\\repos\\BookStore\\BookStore-Backend\\BookStore_API.csproj",
       "packagesPath": "C:\\Users\\90553\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\90553\\source\\repos\\BookStore_API\\obj\\",
+      "outputPath": "C:\\Users\\90553\\source\\repos\\BookStore\\BookStore-Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
