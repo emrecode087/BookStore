@@ -1,0 +1,14 @@
+# Backend
+BookStore-Backend/bin/
+BookStore-Backend/obj/
+BookStore-Backend/appsettings.json
+BookStore-Backend/appsettings.*.json
+BookStore-Backend/.vs/
+
+# Frontend
+BookStore-Frontend/node_modules/
+BookStore-Frontend/build/
+BookStore-Frontend/.env
+
+# Genel Loglar
+*.log
